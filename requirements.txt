@@ -1,0 +1,4 @@
+pyodbc
+pandas
+gspread==3.6.0
+gspread_dataframe
